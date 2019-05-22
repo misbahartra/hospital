@@ -1,0 +1,22 @@
+{
+ "content": null, 
+ "creation": "2016-05-27 13:10:29.521782", 
+ "docstatus": 0, 
+ "doctype": "Page", 
+ "idx": 0, 
+ "modified": "2016-11-15 10:57:09.726939", 
+ "modified_by": "Administrator", 
+ "module": "Hospital Bed Management", 
+ "name": "occupancy-report", 
+ "owner": "Administrator", 
+ "page_name": "Occupancy Report", 
+ "roles": [
+  {
+   "role": "Municipal Officers"
+  }
+ ], 
+ "script": null, 
+ "standard": "Yes", 
+ "style": null, 
+ "title": "Hospital Occupancy Report"
+}
