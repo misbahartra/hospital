@@ -6,7 +6,7 @@ with open('requirements.txt') as f:
 	install_requires = f.read().strip().split('\n')
 	
 version = '0.0.1'
-requirements = parse_requirements("requirements.txt", session="")
+
 
 setup(
 	name='hospital_bed_management',
